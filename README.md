@@ -66,3 +66,4 @@ OpenAI 接口代理 URL，如果你手动配置了 openai 接口代理，请填�
 
 如果你不想让用户使用 GPT-4，将此环境变量设置为 1 即可。
 
+部署后个人网页：https://xyy.redmi.site
